@@ -19,7 +19,7 @@ Visit my website to see some of my works.
 <img src="./assets/node.png" alt="" width="50px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/ex.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/next.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/graphql.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/sql.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/mongodb.png" alt="" width="40px">
 
 ## Reach Me
-[<img src="./assets/tel.png" alt="" width="150px">](https://t.me/ariyanmlzm)
+[<img src="./assets/tel.png" alt="" width="120px">](https://t.me/ariyanmlzm)
 
 
-[<img src="./assets/gmail.png" alt="" width="150px">](mailto:ryanmolazem@gmail.com)
+[<img src="./assets/gmail.png" alt="" width="120px">](mailto:ryanmolazem@gmail.com)
