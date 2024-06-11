@@ -25,5 +25,6 @@ Visit my website to see some of my works.
 ## Reach Me
 [<img src="./assets/tel.png" alt="" width="120px">](https://t.me/ariyanmlzm)
 
-
 [<img src="./assets/gmail.png" alt="" width="120px">](mailto:ryanmolazem@gmail.com)
+
+[<img src="./assets/wat.png" alt="" width="120px">](https://wa.me/+989175894212)
