@@ -1,15 +1,16 @@
-[<img src="./assets/eng.png" width="93px">](https://github.com/AriyanMLZM)&nbsp;&nbsp;[<img src="./assets/ger_act.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.ger.md)&nbsp;&nbsp;[<img src="./assets/fa.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.fa.md)
+[<img src="./assets/eng.png" width="93px">](https://github.com/AriyanMLZM)&nbsp;&nbsp;[<img src="./assets/ger.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.ger.md)&nbsp;&nbsp;[<img src="./assets/fa_act.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.fa.md)
 
-![header](./assets/header_ger.png)
+![header](./assets/header_fa.png)
 ![snake](./assets/github-snake.svg)
 
-# Hallo! 👋
-Ich bin ein Computeringenieur und ein Javascript Fullstack-Entwickler. Ich habe über 3 Jahre Erfahrung in der Webentwicklung. Ich genieße es, neue Ideen mit Programmierung zu kombinieren, Probleme zu lösen und meinen eigenen Weg zu codieren. Ich versuche immer, neue und einzigartige Designs zu erstellen und zu verwenden.
+# سلام! 👋
+من یک مهندس کامپیوتر و توسعه دهنده فول استک جاوااسکریپت  هستم. بیش از 3 سال تجربه در زمینه توسعه وب دارم. از ترکیب ایده‌های جدید با برنامه‌نویسی لذت می‌برم و با کد نویسی به راه خود پیش می‌روم و مشکلات را حل می‌کنم. همیشه سعی می‌کنم طرح‌های جدید و منحصر به فرد ایجاد و استفاده کنم.
 
-Besuchen Sie meine Website, um einige meiner Arbeiten zu sehen.  
+برای دیدن برخی از کارهای من، وب‌سایت من را ببینید.
+  
 <https://ariyanmolazem.ir>
 
-## meine Fähigkeiten
+## مهارت های من
 <img src="./assets/js.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/python.png" alt="" width="40px"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/cpp.png" alt="" width="40px"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/ts.png" alt="" width="32px">
 
 
@@ -18,11 +19,11 @@ Besuchen Sie meine Website, um einige meiner Arbeiten zu sehen.
 
 <img src="./assets/node.png" alt="" width="50px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/ex.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/next.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/graphql.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/sql.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/mongodb.png" alt="" width="40px">
 
-## Sprachen
-* Englisch
-* Persisch
-* Deutsch
-## mich erreichen
+## زبان ها
+* انگلیسی
+* فارسی
+* آلمانی
+## ارتباط با من
 [<img src="./assets/tel.png" alt="" width="120px">](https://t.me/ariyanmlzm)
 
 [<img src="./assets/gmail.png" alt="" width="120px">](mailto:ryanmolazem@gmail.com)

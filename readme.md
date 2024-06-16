@@ -1,4 +1,4 @@
-[<img src="./assets/eng_act.png" width="93px">](https://github.com/AriyanMLZM)&nbsp;&nbsp;[<img src="./assets/ger.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.ger.md)&nbsp;&nbsp;<img src="./assets/fa.png" width="93px">
+[<img src="./assets/eng_act.png" width="93px">](https://github.com/AriyanMLZM)&nbsp;&nbsp;[<img src="./assets/ger.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.ger.md)&nbsp;&nbsp;[<img src="./assets/fa.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.fa.md)
 
 ![header](./assets/header.png)
 ![snake](./assets/github-snake.svg)
