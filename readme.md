@@ -1,4 +1,4 @@
-<img src="./assets/eng_act.png" style="max-width: 120px; width: 30%;">&nbsp;&nbsp;<img src="./assets/ger.png" style="max-width: 120px; width: 30%;">&nbsp;&nbsp;<img src="./assets/fa.png" style="max-width: 120px; width: 30%;">
+<img src="./assets/eng_act.png" width="93px">&nbsp;&nbsp;<img src="./assets/ger.png" width="93px">&nbsp;&nbsp;<img src="./assets/fa.png" width="93px">
 
 ![header](./assets/header.png)
 ![snake](./assets/github-snake.svg)
