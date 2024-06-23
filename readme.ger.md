@@ -6,7 +6,10 @@
 # Hallo! 👋
 Ich bin ein Computeringenieur und ein Javascript Fullstack-Entwickler. Ich habe über 3 Jahre Erfahrung in der Webentwicklung. Ich genieße es, neue Ideen mit Programmierung zu kombinieren, Probleme zu lösen und meinen eigenen Weg zu codieren. Ich versuche immer, neue und einzigartige Designs zu erstellen und zu verwenden.
 
-Besuchen Sie meine Website, um einige meiner Arbeiten zu sehen.  
+Besuchen Sie meine Website, um einige meiner Arbeiten zu sehen.
+
+<img src="./assets/coffee.gif" width="70px">  
+
 <https://ariyanmolazem.ir>
 
 ## meine Fähigkeiten
