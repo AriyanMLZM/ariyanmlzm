@@ -3,6 +3,8 @@
 ![header](./assets/header.png)
 ![snake](./assets/github-snake.svg)
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
+
 # Hi there! 👋
 I'm a Computer Engineer and a Javascript Fullstack Developer. I have over 3 years of experience developing web. I enjoy combining new ideas
 with programming and code my way to it and solve the problems. I
