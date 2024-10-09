@@ -24,6 +24,9 @@ Visit my website to see some of my works.
 
 <img src="./assets/node.png" alt="" width="50px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/ex.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/next.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/graphql.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/sql.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/mongodb.png" alt="" width="40px">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyanMLZM&langs_count=8&theme=transparent"
+/>
+
 ## Languages
 * English
 * Persian
