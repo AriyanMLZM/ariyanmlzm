@@ -3,7 +3,9 @@
 ![header](./assets/header_ger.png)
 ![snake](./assets/github-snake.svg)
 
+<div align='center' >
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
+</div>
 
 # Hallo! 👋
 Ich bin ein Computeringenieur und ein Javascript Fullstack-Entwickler. Ich habe über 3 Jahre Erfahrung in der Webentwicklung. Ich genieße es, neue Ideen mit Programmierung zu kombinieren, Probleme zu lösen und meinen eigenen Weg zu codieren. Ich versuche immer, neue und einzigartige Designs zu erstellen und zu verwenden.
