@@ -7,10 +7,6 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
 </div>
 
-<div align="center" >
-<img src="https://quotes-github-readme.vercel.app/api?theme=merko&border=true">
-</div>
-
 # Hi there! 👋
 I'm a Computer Engineer and a Javascript Fullstack Developer. I have over 3 years of experience developing web. I enjoy combining new ideas
 with programming and code my way to it and solve the problems. I
