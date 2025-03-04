@@ -1,6 +1,6 @@
 [<img src="./assets/eng_act.png" width="93px">](https://github.com/AriyanMLZM)&nbsp;&nbsp;[<img src="./assets/ger.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.ger.md)&nbsp;&nbsp;[<img src="./assets/fa.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.fa.md)
 
-<img src="./assets/banner.gif" width="500px"/>
+<img src="./assets/banner2.gif" width="500px"/>
 
 
 # Hi there! 👋
