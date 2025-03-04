@@ -1,11 +1,7 @@
 [<img src="./assets/eng_act.png" width="93px">](https://github.com/AriyanMLZM)&nbsp;&nbsp;[<img src="./assets/ger.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.ger.md)&nbsp;&nbsp;[<img src="./assets/fa.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.fa.md)
 
-![header](./assets/header.png)
-![snake](./assets/github-snake.svg)
+<img src="./assets/banner.gif" width="500px"/>
 
-<div align='center' >
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
-</div>
 
 # Hi there! 👋
 I'm a Computer Engineer and a Javascript Fullstack Developer. I have over 3 years of experience developing web. I enjoy combining new ideas
@@ -17,6 +13,9 @@ Visit my website to see some of my works.
 <img src="./assets/coffee.gif" width="70px">
 
 <https://ariyanmolazem.ir>
+
+## Let me tell you a joke!
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
 
 ## my Skills
 
@@ -42,3 +41,5 @@ Visit my website to see some of my works.
 [<img src="./assets/gmail.png" alt="" width="120px">](mailto:ryanmolazem@gmail.com)
 
 [<img src="./assets/wat.png" alt="" width="120px">](https://wa.me/+989175894212)
+
+![snake](./assets/github-snake.svg)
