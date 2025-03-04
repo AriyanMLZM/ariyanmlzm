@@ -1,11 +1,6 @@
 [<img src="./assets/eng.png" width="93px">](https://github.com/AriyanMLZM)&nbsp;&nbsp;[<img src="./assets/ger_act.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.ger.md)&nbsp;&nbsp;[<img src="./assets/fa.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.fa.md)
 
-![header](./assets/header_ger.png)
-![snake](./assets/github-snake.svg)
-
-<div align='center' >
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
-</div>
+<img src="./assets/banner2.gif" width="500px"/>
 
 # Hallo! 👋
 
@@ -16,6 +11,9 @@ Besuchen Sie meine Website, um einige meiner Arbeiten zu sehen.
 <img src="./assets/coffee.gif" width="70px">
 
 <https://ariyanmolazem.ir>
+
+## Lass mich dir einen Witz erzählen!
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
 
 ## meine Fähigkeiten
 
@@ -41,3 +39,5 @@ Besuchen Sie meine Website, um einige meiner Arbeiten zu sehen.
 [<img src="./assets/gmail.png" alt="" width="120px">](mailto:ryanmolazem@gmail.com)
 
 [<img src="./assets/wat.png" alt="" width="120px">](https://wa.me/+989175894212)
+
+![snake](./assets/github-snake.svg)

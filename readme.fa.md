@@ -1,11 +1,6 @@
 [<img src="./assets/eng.png" width="93px">](https://github.com/AriyanMLZM)&nbsp;&nbsp;[<img src="./assets/ger.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.ger.md)&nbsp;&nbsp;[<img src="./assets/fa_act.png" width="93px">](https://github.com/AriyanMLZM/ariyanmlzm/blob/main/readme.fa.md)
 
-![header](./assets/header_fa.png)
-![snake](./assets/github-snake.svg)
-
-<div align='center' >
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
-</div>
+<img src="./assets/banner2.gif" width="500px"/>
 
 # سلام! 👋
 
@@ -16,6 +11,9 @@
 <img src="./assets/coffee.gif" width="70px">
 
 <https://ariyanmolazem.ir>
+
+## بزار یک جوک برات تعریف کنم!
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
 
 ## مهارت های من
 
@@ -41,3 +39,5 @@
 [<img src="./assets/gmail.png" alt="" width="120px">](mailto:ryanmolazem@gmail.com)
 
 [<img src="./assets/wat.png" alt="" width="120px">](https://wa.me/+989175894212)
+
+![snake](./assets/github-snake.svg)
