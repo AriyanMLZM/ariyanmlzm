@@ -1,0 +1,8 @@
+{
+	"no-hard-tabs": false,
+	"line-length": false,
+	"no-inline-html": false,
+	"first-line-h1": false,
+	"no-alt-text": false,
+	"no-trailing-punctuation": false
+}
