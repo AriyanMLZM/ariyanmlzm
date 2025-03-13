@@ -13,15 +13,85 @@
 <https://ariyanmolazem.ir>
 
 ## بزار یک جوک برات تعریف کنم!
+
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
 
 ## مهارت های من
 
-<img src="./assets/js.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/python.png" alt="" width="40px"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/cpp.png" alt="" width="40px"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/ts.png" alt="" width="32px">
-
-<img src="./assets/html.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/css.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/react-js-icon.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/svelte.png" alt="" width="30px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/tailwind.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/Threejs-logo.png" alt="" width="35px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/react-native-app-icon.png" alt="" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/gsap.png" alt="gsap" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/figma.png" alt="" width="40px">
-
-<img src="./assets/node.png" alt="" width="50px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/ex.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/next.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/graphql.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/sql.png" alt="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/mongodb.png" alt="" width="40px">
+<table>
+  <tr align="center">
+    <td>Javascript</td>
+    <td><img src="./assets/js.png" width="40px" /></td>
+    <td>Typescript</td>
+    <td><img  src="./assets/ts.png" width="30px"/></td>
+  </tr>
+  <tr align="center">
+    <td>Python</td>
+    <td><img src="./assets/python.png" width="40px" /></td>
+    <td>C++</td>
+    <td><img src="./assets/cpp.png" width="40px" /></td>
+  </tr>
+  <tr align="center">
+    <td>Html</td>
+    <td><img src="./assets/html.png" width="40px" /></td>
+    <td>Css</td>
+    <td><img src="./assets/css.png" width="40px" /></td>
+  </tr>
+  <tr align="center">
+    <td>React.js</td>
+    <td><img  src="./assets/react-js-icon.png" width="40px"/></td>
+    <td>React Query</td>
+    <td><img src="./assets/react-query.png" width="40px" /></td>
+  </tr>
+  <tr align="center">
+    <td>Redux.js</td>
+    <td><img src="./assets/redux.png" width="40px" /></td>
+    <td>Svelte.js</td>
+    <td><img src="./assets/svelte.png" width="30px" /></td>
+  </tr>
+  <tr align="center">
+    <td>Tailwindcss</td>
+    <td><img src="./assets/tailwind.png" width="40px" /></td>
+    <td>Three.js</td>
+    <td><img src="./assets/Threejs-logo.png" width="30px" /></td>
+  </tr>
+  <tr align="center">
+    <td>React Native</td>
+    <td><img src="./assets/react-native-app-icon.png" width="25px" /></td>
+    <td>Gsap</td>
+    <td><img src="./assets/gsap.png" width="40px" /></td>
+  </tr>
+  <tr align="center">
+    <td>Figma</td>
+    <td><img src="./assets/figma.png" width="40px" /></td>
+    <td>Git</td>
+    <td><img src="./assets/git.svg" width="40px" /></td>
+  </tr>
+  <tr align="center">
+    <td>Next.js</td>
+    <td><img src="./assets/next.png" width="40px" /></td>
+    <td>Sveltekit.js</td>
+    <td><img src="./assets/svelte.png" width="30px" /></td>
+  </tr>
+  <tr align="center">
+    <td>Node.js</td>
+    <td><img src="./assets/nodejs.svg" width="40px" /></td>
+    <td>Express.js</td>
+    <td><img src="./assets/ex.png" width="40px" /></td>
+  </tr>
+  <tr align="center">
+    <td>MongoDB</td>
+    <td><img src="./assets/mongodb.png" width="40px" /></td>
+    <td>MySql</td>
+    <td><img src="./assets/mysql.svg" width="40px" /></td>
+  </tr>
+  <tr align="center">
+    <td>GraphQL</td>
+    <td><img src="./assets/graphql.png" width="40px" /></td>
+    <td>Svelte is my favorite one!</td>
+    <td>❤️</td>
+  </tr>
+</table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyanMLZM&langs_count=8&theme=transparent"
 />
