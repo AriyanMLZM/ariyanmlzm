@@ -23,29 +23,29 @@ Visit my website to see some of my works.
 <table>
   <tr align="center">
     <td>Javascript</td>
-    <td><img src="./assets/js.png" width="40px" /></td>
     <td>Typescript</td>
-    <td><img  src="./assets/ts.png" width="30px"/></td>
+    <td>Python</td>
+    <td>C++</td>
   </tr>
   <tr align="center">
-    <td>Python</td>
+    <td><img src="./assets/js.png" width="40px" /></td>
+    <td><img  src="./assets/ts.png" width="30px"/></td>
     <td><img src="./assets/python.png" width="40px" /></td>
-    <td>C++</td>
     <td><img src="./assets/cpp.png" width="40px" /></td>
   </tr>
   <tr align="center">
     <td>Html</td>
-    <td><img src="./assets/html.png" width="40px" /></td>
     <td>Css</td>
-    <td><img src="./assets/css.png" width="40px" /></td>
+    <td>React.js</td>
+    <td>React Query</td>
   </tr>
   <tr align="center">
-    <td>React.js</td>
+    <td><img src="./assets/html.png" width="40px" /></td>
+    <td><img src="./assets/css.png" width="40px" /></td>
     <td><img  src="./assets/react-js-icon.png" width="40px"/></td>
-    <td>React Query</td>
     <td><img src="./assets/react-query.png" width="40px" /></td>
   </tr>
-  <tr align="center">
+  <!--<tr align="center">
     <td>Redux.js</td>
     <td><img src="./assets/redux.png" width="40px" /></td>
     <td>Svelte.js</td>
@@ -92,7 +92,7 @@ Visit my website to see some of my works.
     <td><img src="./assets/graphql.png" width="40px" /></td>
     <td>Svelte is my favorite one!</td>
     <td>❤️</td>
-  </tr>
+  </tr> -->
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyanMLZM&langs_count=8&theme=transparent"
