@@ -25,74 +25,82 @@ Visit my website to see some of my works.
     <td>Javascript</td>
     <td>Typescript</td>
     <td>Python</td>
-    <td>C++</td>
   </tr>
   <tr align="center">
     <td><img src="./assets/js.png" width="40px" /></td>
     <td><img  src="./assets/ts.png" width="30px"/></td>
     <td><img src="./assets/python.png" width="40px" /></td>
-    <td><img src="./assets/cpp.png" width="40px" /></td>
   </tr>
   <tr align="center">
+    <td>C++</td>
     <td>Html</td>
     <td>Css</td>
-    <td>React.js</td>
-    <td>React Query</td>
   </tr>
   <tr align="center">
+    <td><img src="./assets/cpp.png" width="40px" /></td>
     <td><img src="./assets/html.png" width="40px" /></td>
     <td><img src="./assets/css.png" width="40px" /></td>
-    <td><img  src="./assets/react-js-icon.png" width="40px"/></td>
-    <td><img src="./assets/react-query.png" width="40px" /></td>
-  </tr>
-  <!--<tr align="center">
-    <td>Redux.js</td>
-    <td><img src="./assets/redux.png" width="40px" /></td>
-    <td>Svelte.js</td>
-    <td><img src="./assets/svelte.png" width="30px" /></td>
   </tr>
   <tr align="center">
-    <td>Tailwindcss</td>
-    <td><img src="./assets/tailwind.png" width="40px" /></td>
+    <td>React.js</td>
+    <td>React Query</td>
+    <td>Redux.js</td>
+  </tr>
+  <tr align="center">
+    <td><img  src="./assets/react-js-icon.png" width="40px"/></td>
+    <td><img src="./assets/react-query.png" width="40px" /></td>
+    <td><img src="./assets/redux.png" width="40px" /></td>
+  </tr>
+  <tr align="center">
+    <td>Svelte.js</td>
+    <td>React Native</td>
     <td>Three.js</td>
+  </tr>
+  <tr align="center">
+    <td><img src="./assets/svelte.png" width="30px" /></td>
+    <td><img src="./assets/react-native-app-icon.png" width="25px" /></td>
     <td><img src="./assets/Threejs-logo.png" width="30px" /></td>
   </tr>
   <tr align="center">
-    <td>React Native</td>
-    <td><img src="./assets/react-native-app-icon.png" width="25px" /></td>
+    <td>Tailwindcss</td>
     <td>Gsap</td>
-    <td><img src="./assets/gsap.png" width="40px" /></td>
+    <td>Figma</td>
   </tr>
   <tr align="center">
-    <td>Figma</td>
+    <td><img src="./assets/tailwind.png" width="40px" /></td>
+    <td><img src="./assets/gsap.png" width="40px" /></td>
     <td><img src="./assets/figma.png" width="40px" /></td>
-    <td>Git</td>
-    <td><img src="./assets/git.svg" width="40px" /></td>
   </tr>
   <tr align="center">
     <td>Next.js</td>
-    <td><img src="./assets/next.png" width="40px" /></td>
     <td>Sveltekit.js</td>
-    <td><img src="./assets/svelte.png" width="30px" /></td>
-  </tr>
-  <tr align="center">
     <td>Node.js</td>
-    <td><img src="./assets/nodejs.svg" width="40px" /></td>
-    <td>Express.js</td>
-    <td><img src="./assets/ex.png" width="40px" /></td>
   </tr>
   <tr align="center">
+    <td><img src="./assets/next.png" width="40px" /></td>
+    <td><img src="./assets/svelte.png" width="30px" /></td>
+    <td><img src="./assets/nodejs.svg" width="40px" /></td>
+  </tr>
+  <tr align="center">
+    <td>Express.js</td>
     <td>MongoDB</td>
-    <td><img src="./assets/mongodb.png" width="40px" /></td>
     <td>MySql</td>
+  </tr>
+  <tr align="center">
+    <td><img src="./assets/ex.png" width="40px" /></td>
+    <td><img src="./assets/mongodb.png" width="40px" /></td>
     <td><img src="./assets/mysql.svg" width="40px" /></td>
   </tr>
   <tr align="center">
     <td>GraphQL</td>
+    <td>Git</td>
+    <td>Vite</td>
+  </tr>
+  <tr align="center">
     <td><img src="./assets/graphql.png" width="40px" /></td>
-    <td>Svelte is my favorite one!</td>
-    <td>❤️</td>
-  </tr> -->
+    <td><img src="./assets/git.svg" width="40px" /></td>
+    <td><img src="./assets/vite.svg" width="40px" /></td>
+  </tr>
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyanMLZM&langs_count=8&theme=transparent"
