@@ -91,7 +91,7 @@ Visit my website to see some of my works.
     <td>GraphQL</td>
     <td><img src="./assets/graphql.png" width="40px" /></td>
     <td>Svelte is my favorite one!</td>
-    <td>♥</td>
+    <td>❤️</td>
   </tr>
 </table>
 
