@@ -62,12 +62,12 @@
   <tr align="center">
     <td>Tailwindcss</td>
     <td>Gsap</td>
-    <td>Figma</td>
+    <td>Framer Motion</td>
   </tr>
   <tr align="center">
     <td><img src="./assets/tailwind.png" width="40px" /></td>
     <td><img src="./assets/gsap.png" width="40px" /></td>
-    <td><img src="./assets/figma.png" width="40px" /></td>
+    <td><img src="./assets/framer-motion.png" width="35px" /></td>
   </tr>
   <tr align="center">
     <td>Next.js</td>
