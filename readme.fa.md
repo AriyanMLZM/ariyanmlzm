@@ -8,13 +8,13 @@
 
 برای دیدن برخی از کارهای من، وب‌سایت من را ببینید.
 
-<a href="https://ariyanmolazem.ir">
-  <div align="center">
-    <img src="./assets/coffee.gif" width="70px">
-    <br />
-    <img src="./assets/web.png" alt="" width="120px">
-  </div>
-</a>
+<div align="center">
+
+[<img src="./assets/coffee.gif" alt="" width="70px">](https://ariyanmolazem.ir)
+
+[<img src="./assets/web.png" alt="" width="120px">](https://ariyanmolazem.ir)
+
+</div>
 
 ## بزار یک جوک برات تعریف کنم!
 
