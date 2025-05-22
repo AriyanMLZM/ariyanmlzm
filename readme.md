@@ -10,13 +10,13 @@ always try to create and use new and unique designs.
 
 Visit my website to see some of my works.
 
-<a href="https://ariyanmolazem.ir">
-  <div align="center">
-    <img src="./assets/coffee.gif" width="70px">
-    <br />
-    <img src="./assets/web.png" alt="" width="120px">
-  </div>
-</a>
+<div align="center">
+
+[<img src="./assets/coffee.gif" alt="" width="70px">](https://ariyanmolazem.ir)
+
+[<img src="./assets/web.png" alt="" width="120px">](https://ariyanmolazem.ir)
+
+</div>
 
 ## Let me tell you a joke!
 
