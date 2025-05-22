@@ -8,9 +8,13 @@ Ich bin ein Computeringenieur und ein Javascript Fullstack-Entwickler. Ich habe 
 
 Besuchen Sie meine Website, um einige meiner Arbeiten zu sehen.
 
-<img src="./assets/coffee.gif" width="70px">
-
-<https://ariyanmolazem.ir>
+<a href="https://ariyanmolazem.ir">
+  <div align="center">
+    <img src="./assets/coffee.gif" width="70px">
+    <br />
+    <img src="./assets/web.png" alt="" width="120px">
+  </div>
+</a>
 
 ## Lass mich dir einen Witz erzählen!
 
@@ -116,6 +120,10 @@ Besuchen Sie meine Website, um einige meiner Arbeiten zu sehen.
 
 [<img src="./assets/gmail.png" alt="" width="120px">](mailto:ryanmolazem@gmail.com)
 
+[<img src="./assets/lin.png" alt="" width="120px">](https://www.linkedin.com/in/ariyan-molazem)
+
 [<img src="./assets/wat.png" alt="" width="120px">](https://wa.me/+989175894212)
+
+[<img src="./assets/web.png" alt="" width="120px">](https://ariyanmolazem.ir)
 
 ![snake](./assets/github-snake.svg)
