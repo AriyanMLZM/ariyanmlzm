@@ -4,7 +4,7 @@
 
 # Hi there! 👋
 
-I'm a Computer Engineer and a Javascript Fullstack Developer. I have over 3 years of experience developing web. I enjoy combining new ideas
+I'm a Computer Engineer and a Javascript Fullstack Developer. I have over 4 years of experience developing web. I enjoy combining new ideas
 with programming and code my way to it and solve the problems. I
 always try to create and use new and unique designs.
 
