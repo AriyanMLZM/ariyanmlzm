@@ -118,7 +118,7 @@ Visit my website to see some of my works.
 
 ## YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TtGYcrUBqYc?si=FXuGeDHJYsrShW5p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![3d Showcase](https://img.youtube.com/vi/TtGYcrUBqYc/0.jpg)](https://www.youtube.com/watch?v=TtGYcrUBqYc)
 
 ## Reach Me
 
@@ -127,6 +127,8 @@ Visit my website to see some of my works.
 [<img src="./assets/gmail.png" alt="" width="120px">](mailto:ryanmolazem@gmail.com)
 
 [<img src="./assets/lin.png" alt="" width="120px">](https://www.linkedin.com/in/ariyan-molazem)
+
+[<img src="./assets/youtube.png" alt="" width="120px">](http://www.youtube.com/@ariyan-dev)
 
 [<img src="./assets/wat.png" alt="" width="120px">](https://wa.me/+989175894212)
 
