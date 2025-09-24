@@ -116,7 +116,7 @@
 
 ## یوتوب
 
-[![3d Showcase](https://img.youtube.com/vi/TtGYcrUBqYc/0.jpg)](https://www.youtube.com/watch?v=TtGYcrUBqYc)
+[![3d Showcase](./assets/thum.png)](https://www.youtube.com/watch?v=TtGYcrUBqYc)
 
 ## ارتباط با من
 

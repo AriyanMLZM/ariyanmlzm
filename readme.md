@@ -118,7 +118,7 @@ Visit my website to see some of my works.
 
 ## YouTube
 
-[![3d Showcase](https://img.youtube.com/vi/TtGYcrUBqYc/0.jpg)](https://www.youtube.com/watch?v=TtGYcrUBqYc)
+[![3d Showcase](./assets/thum.png)](https://www.youtube.com/watch?v=TtGYcrUBqYc)
 
 ## Reach Me
 
