@@ -114,6 +114,10 @@
 - فارسی
 - آلمانی
 
+## یوتوب
+
+[![3d Showcase](https://img.youtube.com/vi/TtGYcrUBqYc/0.jpg)](https://www.youtube.com/watch?v=TtGYcrUBqYc)
+
 ## ارتباط با من
 
 [<img src="./assets/tel.png" alt="" width="120px">](https://t.me/ariyanmlzm)
@@ -121,6 +125,8 @@
 [<img src="./assets/gmail.png" alt="" width="120px">](mailto:ryanmolazem@gmail.com)
 
 [<img src="./assets/lin.png" alt="" width="120px">](https://www.linkedin.com/in/ariyan-molazem)
+
+[<img src="./assets/youtube.png" alt="" width="120px">](http://www.youtube.com/@ariyan-dev)
 
 [<img src="./assets/wat.png" alt="" width="120px">](https://wa.me/+989175894212)
 
